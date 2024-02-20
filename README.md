@@ -1,2 +1,2 @@
 # HTML-CSS
-portfolio using HTML and CSS👩‍💻
+ short portfolio using HTML and CSS👩‍💻
